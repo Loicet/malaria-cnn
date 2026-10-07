@@ -1,0 +1,24 @@
+# Dataset - too large for GitHub
+data/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Models (can be large)
+models/*.h5
+models/*.keras
+
+# Env
+.env
+
+# OS
+.DS_Store
+Thumbs.db
